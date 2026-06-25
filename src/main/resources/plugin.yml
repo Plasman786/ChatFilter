@@ -1,0 +1,4 @@
+name: ChatFilter
+main: com.draxeofsnem.ChatFilterPlugin
+version: 1.0
+api-version: 1.20
